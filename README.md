@@ -4,7 +4,7 @@ MFix 1.0, Searches and fixes out of date modules
 Author: John Cook
 Email:  john.cook@kissusa.com
 
-usage: ./mfix.py [options] <path>
+`usage: ./mfix.py [options] <path>`
 
 Options and arguments:
 	
@@ -14,3 +14,4 @@ Options and arguments:
 	-u   : pass url (-u <url>) runs only if the passed url returns a 500 response
 	-V   : print the version number and exit (also --version)
 	-v   : verbose (trace searched module.xml paths)
+
